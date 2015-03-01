@@ -12,8 +12,8 @@ Models for the Blog
 
 Setting up for use
 =====================
-1. Run rmodel.py to create models for the minimal Blog . 
-2. BlogApp.py is the main command-line app to control the Blog , usage is as given below. 
+1. Run `rmodel.py` to create models for the minimal Blog . 
+2. `BlogApp.py` is the main command-line app to control the Blog , usage is as given below. 
 
 Usage 
 =======
