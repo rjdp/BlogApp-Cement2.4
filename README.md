@@ -18,14 +18,14 @@ Setting up for use
 Usage 
 =======
 1. BlogApp.py is be name of application itself. 
-2. BlogApp.py --help  lists help and commands available. 
-3. BlogApp.py post add "title" "content"  adds a new blog a new blog post with title and content. 
-4. BlogApp.py post list  lists all blog posts. 
-5. BlogApp.py post search "keyword"  lists all blog posts where “keyword” is found in title and/or content. 
-6. BlogApp.py category add "category-name" creates a new category. 
-7. BlogApp.py category list lists all categories
-8. BlogApp.py category assign <post-id> <cat-id> assigns category to post
-9. BlogApp.py post add "title" "content" --category "cat-name"  adds a new blog a new blog post with title, content and assign a category to it. It category doesn’t exist, it is be created first.
+2. <BlogApp.py --help>  lists help and commands available. 
+3. <BlogApp.py post add "title" "content">  adds a new blog a new blog post with title and content. 
+4. <BlogApp.py post list>  lists all blog posts. 
+5. <BlogApp.py post search "keyword">  lists all blog posts where “keyword” is found in title and/or content. 
+6. <BlogApp.py category add "category-name"> creates a new category. 
+7. <BlogApp.py category list> lists all categories
+8. <BlogApp.py category assign '<post-id>' '<cat-id>' assigns category to post
+9. <BlogApp.py post add "title" "content" --category "cat-name">  adds a new blog a new blog post with title, content and assign a category to it. It category doesn’t exist, it is be created first.
 
 
 Improvements for next version 
